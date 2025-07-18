@@ -2,3 +2,5 @@ This is just a sample file to understand git functionality
 
 This is a new line added for feature-01
 Added a new line on 18-07-2025 for feature-01
+
+This is a new line for feature-02 added on 18-07-2025 for JIRA XXXX
